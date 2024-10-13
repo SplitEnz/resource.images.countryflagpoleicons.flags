@@ -6,7 +6,7 @@
 	</requires>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Colour Country Flagpole Icons (256x256px) for use with Kodi skins.</summary>
-		<description lang="en">Country flagpole icons (256x256px) for use with Kodi skins. Original default flagpole icon courtesy of Team Kodi, https://github.com/xbmc/xbmc/blob/master/addons/skin.estuary/media/DefaultCountry.png. Colour country flags courtesy of braz country flag resource pack,https://github.com/braz96/resource.images.moviecountryicons.flags. Source of original country flag images courtesy of lipis, https://github.com/lipis/flag-icon-css.</description>
+		<description lang="en">Country flagpole icons (256x256px) for use with Kodi skins.[CR]Original default flagpole icon courtesy of Team Kodi:[CR]https://github.com/xbmc/xbmc/blob/master/addons/skin.estuary/media/DefaultCountry.png.[CR]Colour country flags courtesy of braz country flag resource pack:[CR]https://github.com/braz96/resource.images.moviecountryicons.flags.[CR]Source of original country flag images courtesy of lipis:[CR]https://github.com/lipis/flag-icon-css.</description>
 		<disclaimer lang="en">Requires implementation by skinner.</disclaimer>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
